@@ -1,5 +1,16 @@
 # machine-learning
 
+### Day 2:  
+**Fairness**
+- While building a machine learning model it should be considered the model should be fair
+- it should not ignore any group based on race or gender
+- there are total 5 categories of unfairness
+1. Allocation
+2. Quality of service
+3. Stereotyping
+4. Denigration
+5. Over- or under- representation
+
 ### Day 1:  
 **Introduction to Machine learning**  
 
