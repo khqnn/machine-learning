@@ -1,5 +1,12 @@
 # machine-learning
 
+### Day 3:
+**Allocation**
+- a scenario where a group is favoured over another
+- one example is to build a loan approval machine learning model which prefered white man over black. this kind of unfairness should be considered critical
+- another example is the hr system for screening application and the system mostly select male candidates over female candidates. this unfairness based on gender demographic.
+- this kind of fairness maybe occurred because the historical data on which the ML model is trained have seen more examples of male candidates and female candidates were less in number.
+
 ### Day 2:  
 **Fairness**
 - While building a machine learning model it should be considered the model should be fair
