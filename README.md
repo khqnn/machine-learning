@@ -1,5 +1,8 @@
 # machine-learning
 
+### Day 4:
+- A stereotypical gender view was found in machine translation. When translating “he is a nurse and she is a doctor” into Turkish, problems were encountered. Turkish is a genderless language which has one pronoun, “o” to convey a singular third person, but translating the sentence back from Turkish to English yields the stereotypical and incorrect as “she is a nurse, and he is a doctor.”
+
 ### Day 3:
 **Allocation**
 - a scenario where a group is favoured over another
