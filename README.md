@@ -1,11 +1,18 @@
 # machine-learning
 
+### Day 6:
+**Quality of Service**
+- Researchers found that several commercial gender classifiers had higher error rates around images of women with darker skin tones as opposed to images of men with lighter skin tones. 
+- Another infamous example is a hand soap dispenser that could not seem to be able to sense people with dark skin.
+
 ### Day 5:
 **Denigration**
 - An image labeling technology infamously mislabeled images of dark-skinned people as gorillas. Mislabeling is harmful not just because the system made a mistake because it specifically applied a label that has a long history of being purposefully used to denigrate Black people.
 
 ### Day 4:
-***Stereotyping**
+**
+
+**Stereotyping**
 - A stereotypical gender view was found in machine translation. When translating “he is a nurse and she is a doctor” into Turkish, problems were encountered. Turkish is a genderless language which has one pronoun, “o” to convey a singular third person, but translating the sentence back from Turkish to English yields the stereotypical and incorrect as “she is a nurse, and he is a doctor.”
 
 ### Day 3:
