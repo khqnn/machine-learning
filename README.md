@@ -1,5 +1,9 @@
 # machine-learning
 
+### Day 7:
+**Over-representation or under-representation**
+- Skewed image search results can be a good example of this harm. When searching images of professions with an equal or higher percentage of men than women, such as engineering, or CEO, watch for results that are more heavily skewed towards a given gender.
+
 ### Day 6:
 **Quality of Service**
 - Researchers found that several commercial gender classifiers had higher error rates around images of women with darker skin tones as opposed to images of men with lighter skin tones. 
