@@ -1,5 +1,13 @@
 # machine-learning
 
+### Day 8:
+- besides the faireness there are other factors that must be taken into account while building a machine learning model
+- Reliability and safety
+- Inclusiveness
+- Security and privacy
+- Transparency
+- Accountability
+
 ### Day 7:
 **Over-representation or under-representation**
 - Skewed image search results can be a good example of this harm. When searching images of professions with an equal or higher percentage of men than women, such as engineering, or CEO, watch for results that are more heavily skewed towards a given gender.
