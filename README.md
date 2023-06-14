@@ -1,5 +1,13 @@
 # machine-learning
 
+### Day 9:
+- detect unfairness in your model
+- understand your model and build in fairness
+- identify harms (and benifits)
+- identify the affected groups
+- define fairness metrics
+- to mitigate the unfairness do above steps and track tradeoff between the accuracy and fairness and choose fairness accordingly
+
 ### Day 8:
 - besides the faireness there are other factors that must be taken into account while building a machine learning model
 - Reliability and safety
