@@ -1,5 +1,17 @@
 # machine-learning
 
+### Day 10:
+The typical machine learning process is as follows
+- decide on the question
+- collect and prepare data
+- choose a training method
+- train the model
+- evaluate the model
+- parameter tuning
+- predict
+- deploy
+- monitor
+
 ### Day 9:
 - detect unfairness in your model
 - understand your model and build in fairness
