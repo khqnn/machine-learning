@@ -1,5 +1,14 @@
 # machine-learning
 
+### Day 11:
+Prebuilding tasks
+- collect data
+- clean and prepare data
+- feature selection
+- features and targets
+- visualize your data
+- split data
+
 ### Day 10:
 The typical machine learning process is as follows
 - decide on the question
