@@ -16,7 +16,7 @@ The typical machine learning process is as follows
 - choose a training method
 - train the model
 - evaluate the model
-- parameter tuning
+- parameter tuning(fine tuning)
 - predict
 - deploy
 - monitor
