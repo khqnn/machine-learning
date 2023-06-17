@@ -1,5 +1,13 @@
 # machine-learning
 
+### Day 12:
+Regression
+- Regression models can help determine the relationship between variables. This type of model can predict values such as length, temperature, or age, thus uncovering relationships between variables as it analyzes data points.
+- There multiple regression techniques including
+1. linear regression
+2. polynomial regression
+3. logistic regression 
+
 ### Day 11:
 Prebuilding tasks
 - collect data
