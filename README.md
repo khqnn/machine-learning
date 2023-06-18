@@ -1,5 +1,10 @@
 # machine-learning
 
+### Day 13:
+- linear regression is a straight line that tried to fit all data with minimum of mean square error
+- polynomial regression is a line with multiple independent variables that fit to data with minimum mean square error
+- logistic regression is a line that separates data with minimum log loss
+
 ### Day 12:
 Regression
 - Regression models can help determine the relationship between variables. This type of model can predict values such as length, temperature, or age, thus uncovering relationships between variables as it analyzes data points.
