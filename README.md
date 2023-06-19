@@ -1,5 +1,14 @@
 # machine-learning
 
+### Day 14: 
+Regression notebook contains
+- load diabeties dataset using load_dataset from sklearn dataset
+- analyze diabeties dataset
+- features and targets
+- split dataset
+- fit linear regression model on dataset
+- visualize model fit for one feature
+
 ### Day 13:
 - linear regression is a straight line that tried to fit all data with minimum of mean square error
 - polynomial regression is a line with multiple independent variables that fit to data with minimum mean square error
