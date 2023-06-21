@@ -1,5 +1,15 @@
 # machine-learning
 
+### Day 15:
+load US Pumpkins data and do some preprocessing
+- load data
+- know your data by checking out its shape and info
+- drop some columns
+- convert month string into number
+- calculate price by averaging low and high price
+- find out total package types
+- filter out data and keep data only that contains bushel package type
+
 ### Day 14: 
 Regression notebook contains
 - load diabeties dataset using load_dataset from sklearn dataset
