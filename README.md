@@ -1,5 +1,22 @@
 # machine-learning
 
+### Day 16: 
+- visualize price over month
+- calculate day of year for each record
+- visualize day wise price distribution
+- find correlation between price and day/month
+- explore pumpkins variety
+- visualize variety wise distribution
+- calculate and visualize mean price for each variety
+- visualize price distribution for individual variety
+- find correlation of price with each variety of pumpkins
+- keep data only with PIE TYPE pumpkin variety
+- see information about data and remove null
+
+Note:
+- while dealing with two variables like month and price visualize it horizontally for each month how price is distributed as well as for each month price aggeregation
+- for categorical attribute do some data processing with different categories of data (like finding correlation)
+
 ### Day 15:
 load US Pumpkins data and do some preprocessing
 - load data
