@@ -1,5 +1,15 @@
 # machine-learning
 
+### Day 17:
+- chosse one variable from pumpkins data
+- prepare feature and value data
+- split data into training and testing
+- choose linear regression model
+- train model on training data
+- get predictions on test data
+- find out error scores
+- visualize model on training data (one variable on 2d space)
+
 ### Day 16: 
 - visualize price over month
 - calculate day of year for each record
