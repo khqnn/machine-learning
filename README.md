@@ -1,5 +1,13 @@
 # machine-learning
 
+### Day 18:
+- now instead of linear model(straight line) we tried polynomial model with 2 features
+- created a pipeline for polynomial features and linear regression
+- train model using pipeline
+- make predictions on test data
+- calculate model performance in terms of error
+- visualize linear regression model with polynomial features
+
 ### Day 17:
 - chosse one variable from pumpkins data
 - prepare feature and value data
