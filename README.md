@@ -1,5 +1,15 @@
 # machine-learning
 
+### Day 19:
+- for linear regression choose one variable of categorical type (that is variety in pumpkins data)
+- convert categorical feature into numeric features(one hot encoding)
+- prepare data
+- split data into test and train
+- ceate a pipeline for polynomial features of degree 2 and a linear regression
+- train the model on training data
+- get predictions of model on test data
+- calculate the model's performance on test data
+
 ### Day 18:
 - now instead of linear model(straight line) we tried polynomial model with 2 features
 - created a pipeline for polynomial features and linear regression
