@@ -1,5 +1,24 @@
 # machine-learning
 
+### Day 20:
+logistic regression on pumpkins data
+- load and view data
+- our output feature is categorical feature i.g. Color
+- correlation should not exists while working on logistic regression unlike linear or polynomial regression
+- select few features and visualize dataframe
+- remove nulls
+- visualize color vs variety on category plot
+- identify categorical and ordinal features
+- transform categorical and ordinal features into numeric features
+- transform output feature(categorical) into labels
+- visualize color, variety and item sizes on whiskers box plot
+- prepare dataset
+- split data into training and testing set
+- create a linear regression model
+- train the model
+- evaluate model on test data
+- classification report, F1-score and confusion matrix
+
 ### Day 19:
 - for linear regression choose one variable of categorical type (that is variety in pumpkins data)
 - convert categorical feature into numeric features(one hot encoding)
