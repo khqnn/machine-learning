@@ -1,5 +1,18 @@
 # machine-learning
 
+### Day 21:
+- load ufos dataset
+- reduce dataset to keep only four columns
+- filter dataset based on seconds from 1 to 60
+- encode labels
+- prepare features and labels
+- split data into training and testing
+- train model
+- calculate model performance and print classification report
+- pickle the trained model
+- load pickle model and predict a sample
+
+
 ### Day 20:
 logistic regression on pumpkins data
 - load and view data
