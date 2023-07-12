@@ -17,8 +17,6 @@ for creating a flask web app
 - calculate model performance and print classification report
 - pickle the trained model
 - load pickle model and predict a sample
-- 
-
 
 ### Day 20:
 logistic regression on pumpkins data
