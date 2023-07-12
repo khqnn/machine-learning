@@ -1,5 +1,11 @@
 # machine-learning
 
+### Day 22:
+for creating a flask web app
+- app.py has an api that excepts three query params as seconds, lat and lng
+- load pickle model that is trained on ufos dataset
+- return country name in response of api
+
 ### Day 21:
 - load ufos dataset
 - reduce dataset to keep only four columns
