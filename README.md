@@ -1,5 +1,19 @@
 # machine-learning
 
+### Day 23:
+classification
+- load cuisines dataset
+- display data info
+- plot data in barplot
+- find out how much data is available per cuisine
+- visualize the ingredients
+- visualize each country ingredients separately
+- drop the most common ingredients that create confusion between distinct cuisines
+- balace dataset with SMOTE
+- check number of samples after balancing the data
+- create new dataset for balanced dataset
+- save transformed data
+
 ### Day 22:
 for creating a flask web app
 - app.py has an api that excepts three query params as seconds, lat and lng
