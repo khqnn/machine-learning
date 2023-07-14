@@ -27,6 +27,7 @@ classification
 - check number of samples after balancing the data
 - create new dataset for balanced dataset
 - save transformed data
+- 
 
 ### Day 22:
 for creating a flask web app
