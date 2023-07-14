@@ -1,5 +1,19 @@
 # machine-learning
 
+### Day 24:
+- load cleaned cuisines data and preview data and its info
+- separate labels and features
+- choose a classification model for our data
+- train a logistic regression model on our data
+- get predictios over test data
+- calculate accuracy of our model on test data
+- print classification report
+- train linear SVC on our training data and print accuracy and classification report
+- train K-Neighbours classifier on training data and print accuracy and classification report
+- train SVC classifier on training data
+- train ensemble methods i.e. Random Forest and AdaBoost classifiers
+- it is noticed that on cuisines data from above 5 algorithms Random forest outperforms other algorithms
+
 ### Day 23:
 classification
 - load cuisines dataset
