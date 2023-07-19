@@ -1,5 +1,15 @@
 # machine-learning
 
+### Day 25:
+- load cleaned cuisines data and preview
+- prepare features and labels as X and y
+- split dataset
+- build an SVC classification model
+- test model performance on test data
+- print out classification report
+- convert this model to onnx using a tensor of number 380
+- create the onnx and save it as a file onnx.model
+
 ### Day 24:
 - load cleaned cuisines data and preview data and its info
 - separate labels and features
