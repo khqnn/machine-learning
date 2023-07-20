@@ -1,5 +1,15 @@
 # machine-learning
 
+### Day 26:
+- create a node application with express
+- create a get endpoint "/predict"
+- a json for cuisines is added in index.js file
+- feed ingredients as an array of objects with three properties that are 1. name 2. value 3. quantity
+- create a tensor using the json of 380 length
+- load the model
+- feed the above created tensor to model and get output
+- send output to client
+
 ### Day 25:
 - load cleaned cuisines data and preview
 - prepare features and labels as X and y
