@@ -1,5 +1,27 @@
 # machine-learning
 
+### Day 27:
+clustering
+- load nigerian songs dataset
+- view dataset samples and infor
+- check for null values
+- describe the data
+- visualize most popular genere using barplot
+- get rid of Missing genere values
+- pickup only top 3 genere
+- now find out if there's correlation between any columns
+- Examine our top three genres data distribution for popularity and danceability along a given x and y axis
+- draw a scatter plot
+- create box plot for each feature
+- choose columns for clustering that has similar ranges
+- encode artist_top_genere to numeri values
+- apply K-Means clustering algorithm
+- predict cluster for each data point
+- calculate silhouette score
+- try with different number of clusters
+- use elbow method to choose best number of clusters
+- calculate model's accuracy
+
 ### Day 26:
 - create a node application with express
 - create a get endpoint "/predict"
