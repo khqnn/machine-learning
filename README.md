@@ -1,5 +1,15 @@
 # machine-learning
 
+### Day 28:
+intro to NLP
+- for creating a simple random chatbot
+- initialize a list of general responses
+- print instructions
+- start taking input as a string in loop
+- choose a response randomly from list of responses
+- finish loop when the input is exit
+
+
 ### Day 27:
 clustering
 - load nigerian songs dataset
