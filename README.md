@@ -1,5 +1,11 @@
 # machine-learning
 
+### Day 29:
+- install and import textblob library in python venv
+- translate an english sentence into french
+- perform centiment analysis on different sentences. find out the polarity of the given text.
+- the polarity varies from most negative (-1) to most positive (1) with 0 as neutral. 
+
 ### Day 28:
 intro to NLP
 - for creating a simple random chatbot
