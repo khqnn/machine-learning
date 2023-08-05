@@ -1,5 +1,11 @@
 # machine-learning
 
+### Day 30:
+- improve previous random chatbot
+- take user input
+- find the sentiment of the input
+- reply from predefined response but this time based on the sentiment of the input
+
 ### Day 29:
 - install and import textblob library in python venv
 - translate an english sentence into french
